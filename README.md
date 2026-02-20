@@ -2,6 +2,9 @@
 
 This project builds an end-to-end healthcare analytics workflow to predict 30-day hospital readmission risk and translate model outputs into an operational intervention strategy.
 
+## Dashboard Preview
+![Dashboard](assets/dashboard.png)
+
 ## Problem
 Hospitals want to reduce 30-day readmissions. Resources are limited, so the goal is to identify a small high-risk cohort for targeted interventions.
 
