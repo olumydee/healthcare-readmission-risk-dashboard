@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data (keep local)
+data/raw/
+data/processed/
+
+# Outputs (optional)
+outputs/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
