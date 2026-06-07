@@ -1,18 +1,7 @@
-# Hospital 30-Day Readmission Risk  
-### Logistic Regression + Operational Targeting Strategy (Power BI)
+# Healthcare Readmission Risk Dashboard
 
-This project develops an end-to-end healthcare analytics workflow to predict 30-day hospital readmission risk and translate model outputs into a practical intervention strategy for hospital care management teams.
-
----
-
-## Dashboard Preview
-![Dashboard](assets/dashboard.png)
-
----
-
-## Business Problem
-
-Hospitals face financial penalties for excessive 30-day readmissions but cannot intervene on every discharged patient due to limited resources.
+This project analyzes hospital readmission risk using patient demographics, clinical variables, and operational metrics.  
+It provides a Power BI dashboard designed for healthcare quality improvement teams. 
 
 This project aims to:
 
@@ -21,6 +10,52 @@ This project aims to:
 - Simulate targeted intervention strategies (Top 10–20% highest-risk patients)
 
 ---
+
+## 🎯 Project Objectives
+• Analyze patient readmission patterns  
+• Identify risk factors (age, LOS, comorbidities, diagnosis groups)  
+• Visualize clinical KPIs for hospital operations  
+• Support data‑driven decision‑making in healthcare settings  
+
+---
+
+## 🛠 Tools & Technologies
+• Power BI  
+• DAX  
+• Excel / CSV healthcare datasets  
+• GitHub for version control  
+
+---
+
+## 📊 Dashboard Features
+• Readmission rate by demographic group  
+• Length of stay (LOS) distribution  
+• Comorbidity analysis  
+• Diagnosis category breakdown  
+• Interactive slicers for filtering  
+
+---
+
+## 📈 Key Insights (Sample)
+• Older patients had higher readmission risk  
+• Longer LOS correlated with increased readmission probability  
+• Certain diagnosis groups showed significantly higher risk  
+• High‑risk patients could be flagged for follow‑up care  
+
+---
+
+## 🖼 Dashboard Preview 
+![Dashboard](assets/dashboard.png)
+
+---
+
+## 🚀 Future Improvements
+• Add predictive modeling using Python  
+• Integrate SQL data source  
+• Add drill‑through pages for patient‑level analysis  
+
+---
+
 
 ## Dataset
 
